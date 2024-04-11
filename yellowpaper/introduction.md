@@ -17,6 +17,4 @@ The vision of the Consent Project extends beyond the current landscape, envision
 
 The Consent Project symbolizes a pivotal shift towards integrating AI into the fabric of society in a manner that enhances human capabilities, fosters innovation, and respects ethical boundaries. Through this document, we aim to provide a comprehensive overview of the Consent ecosystem, detailing its key components, technical architecture, tokenomics, and strategic roadmap. Our goal is not only to share our vision but also to invite collaboration, discussion, and participation from all who share our aspiration for a future harmonized between humans and AI.
 
----
-
-For a detailed exploration of the Consent ecosystem, please refer to the subsequent sections of this yellow paper.
+[Next >>](link-to-next-section)

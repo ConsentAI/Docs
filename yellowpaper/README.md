@@ -33,7 +33,7 @@ Welcome to the Consent Project Yellow Paper. This document serves as a comprehen
 
 6. [Strategic Initiatives](strategic_initiatives.md)
    - [Multi-Chain Strategy](strategic_initiatives.md##multi-chain-strategy)
-   - [Capital Raising - XCombinator](strategic_initiatives.md##capital-raising-xcombinator)
+   - [Capital Raising - XCombinator](strategic_initiatives.md#capital-raising---xcombinator-xd)
 
 7. [Protection and Security Measures](protection_and_security_measures.md)
 

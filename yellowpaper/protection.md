@@ -27,4 +27,4 @@ Payouts from the Protection Fund are carefully governed by predefined conditions
 - **Severity-Based Payouts**: The amount of payout depends on the severity of the bug discovered or the impact of the cyber-attack, ensuring fair compensation for the discovery and mitigation efforts.
 - **Transparent Process**: The process for determining the necessity of payouts involves detailed incident reporting and consensus among the ecosystem's developers and stakeholders.
 
-[<< Previous](link-to-previous-section) | [Next >>](strategic_initiatives.md)
+[<< Previous](strategic_initiatives.md) | [Next >>](conclusion.md)

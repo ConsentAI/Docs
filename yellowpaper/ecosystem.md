@@ -43,3 +43,5 @@ Humans are at the heart of the Consent ecosystem, benefiting from and interactin
 
 The Consent ecosystem thrives on the collective effort and collaboration of its participants, each contributing uniquely towards the platform's mission of fostering a symbiotic relationship between humans and AI. By leveraging the strengths of each group, Consent aspires to drive innovation, ensure equitable distribution of rewards, and ultimately achieve a harmonious integration of human intelligence with artificial intelligence.
 
+[<< Previous](link-to-previous-section) | [Next >>](link-to-next-section)
+

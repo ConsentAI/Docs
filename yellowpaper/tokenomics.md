@@ -24,7 +24,7 @@ The ecosystem offers a structured pathway for earning SENT through contributions
 
 SENT's distribution strategy covers various ecosystem components, including Code, Compute, Protection, Community, and Capital sectors. Each category, except Protection, is allocated 24% of the daily SENT distribution, with Protection receiving a smaller share of 4%. The distribution incorporates a daily decay rate to ensure long-term sustainability and equitable distribution.
 
-## SENT Staking Dynamics
+## Staking Dynamics
 
 Within the Consent ecosystem, staking is redefined through the representation of every network component as an NFT. Examples of NFTs include authorised AI Agents, AI Agent User Interfaces (UIs), AI Agent Tools, and Core Infrastructure Components.
 

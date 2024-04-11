@@ -1,47 +1,37 @@
 # Tokenomics
 
-The Tokenomics of the Consent Project outline the economic and incentive structures designed to sustain and grow the ecosystem. Central to this is the native token, SENT, which facilitates transactions, rewards contributions, and drives participation within the Consent ecosystem.
-
 ## SENT: The Principal Currency
 
-SENT tokens are at the heart of the Consent ecosystem, serving multiple crucial roles:
+SENT is the native token of the Consent ecosystem, serving as the foundation for transactions and various network activities. It plays a crucial role in rewarding users for their engagement with the software and allocating access to computational resources, directly correlating to the quantity of SENT a user holds.
 
-- **Transactions**: SENT is used for all transactions within the Consent ecosystem, including payments for services, rewards for contributions, and governance voting.
-- **Rewards**: Contributors to the ecosystem, including developers, content creators, and other participants, are rewarded in SENT tokens.
-- **Staking**: Users can stake SENT tokens to participate in governance decisions, secure the network, and earn rewards.
+## Fair Launch and Distribution
 
-## Distribution and Allocation
+Consent is committed to a fair distribution of SENT tokens, ensuring that rewards are equitably shared among all contributors, including those providing capital and those engaged in community activities.
 
-The distribution model of SENT tokens is designed to ensure a fair and equitable allocation to all stakeholders in the ecosystem:
+## Innovative Distribution via the XCombinator Framework
 
-- **Fair Launch**: Consent emphasizes a fair launch process, with no pre-sale or allocation to insiders. This ensures equal opportunity for all participants to acquire SENT tokens.
-- **Ecosystem Rewards**: A significant portion of SENT tokens is allocated to ecosystem rewards, incentivizing contributions and participation.
-- **Staking Rewards**: SENT holders can stake their tokens to receive rewards, aligning long-term incentives and securing the network.
+The XCombinator Framework is a revolutionary approach that enables capital contributors to receive SENT tokens proportional to their yield contributions. This system mitigates the risk of impermanent loss while fostering the growth of both liquidity and the broader ecosystem.
 
-## Token Supply
+## Supply and Allocation
 
-The total supply of SENT tokens is capped, with mechanisms in place to ensure sustainable growth and value retention over time:
+The total supply of SENT tokens is capped at 21 million. The network initiates distribution with a daily release of 69,420 SENT, which gradually decreases over approximately 10 years. This ensures a fair and balanced allocation towards capital, coding, computational contributions, and community involvement.
 
-- **Total Supply**: The total supply of SENT tokens is capped at a fixed amount, preventing inflation and preserving value.
-- **Emission Schedule**: SENT tokens are released over time according to a predetermined emission schedule, supporting the ecosystem's growth and development sustainably.
+## Participation and Earnings
 
-## Governance and Voting
+The ecosystem offers a structured pathway for earning SENT through contributions across four critical sectors: Capital, Code, Community, and Compute. The initial phase focuses on rewarding Code and Capital efforts, progressively integrating Compute and Community contributions.
 
-SENT tokens also play a vital role in the governance of the Consent ecosystem:
+## Detailed Distribution Metrics
 
-- **Voting Rights**: SENT holders can participate in governance decisions, influencing the direction and development of the ecosystem.
-- **Proposal Submission**: Stakeholders can submit proposals for changes or improvements to the ecosystem, which are voted on by SENT holders.
+SENT's distribution strategy covers various ecosystem components, including Code, Compute, Protection, Community, and Capital sectors. Each category, except Protection, is allocated 24% of the daily SENT distribution, with Protection receiving a smaller share of 4%. The distribution incorporates a daily decay rate to ensure long-term sustainability and equitable distribution.
 
-## Economic Security and Sustainability
+## SENT Staking Dynamics
 
-The Tokenomics model of the Consent Project is designed with long-term economic security and sustainability in mind:
+Within the Consent ecosystem, staking is redefined through the representation of every network component as a Non-Fungible Agent (NFA). Examples of NFAs include AI Agents, AI Agent User Interfaces (UIs), AI Agent Tools, and Core Infrastructure Components.
 
-- **Liquidity Provision**: Mechanisms are in place to ensure sufficient liquidity of SENT tokens, facilitating smooth transactions and interactions within the ecosystem.
-- **Incentive Alignment**: The distribution and rewards system is designed to align the incentives of all participants, ensuring the long-term health and growth of the ecosystem.
+SENT token holders can stake their tokens in compatible AI Agents they wish to support or believe in. This allows for a broad spectrum of project support, enabling token holders to stake SENT against diverse initiatives, creating a direct link between the success of projects and the rewards for stakers.
 
-## Conclusion
+SENT token emissions are directed in proportion to the total amount of SENT staked to each AI Agent and subsequently distributed to the individual stakers of that AI Agent. This creates a sophisticated Agent investment marketplace where competition and market dynamics incentivize AI Agents to self-improve over time.
 
-The Tokenomics of the Consent Project are foundational to its operation and success, providing the economic structure and incentives necessary to foster a thriving, sustainable ecosystem. By aligning the interests of all participants and ensuring fair distribution and governance, Consent aims to create a decentralized, collaborative future powered by blockchain and AI.
 
 [<< Previous](technical_architecture.md) | [Next >>](governance.md)
 

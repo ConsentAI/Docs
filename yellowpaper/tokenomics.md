@@ -4,6 +4,10 @@
 
 SENT is the native token of the Consent ecosystem, serving as the foundation for transactions and various network activities. It plays a crucial role in rewarding users for their engagement with the software and allocating access to computational resources, directly correlating to the quantity of SENT a user holds.
 
+### Supply
+
+The total supply of SENT tokens is capped at 21 million. The network initiates distribution with a daily release of 69,420 SENT, which gradually decreases over approximately 10 years. 
+
 ## Dynamic Distribution
 
 The distribution of SENT tokens is not fixed but determined by two key mechanisms:
@@ -12,7 +16,7 @@ The distribution of SENT tokens is not fixed but determined by two key mechanism
 
 2. **DAO-Controlled Pools (50% Allocation):** The remaining 50% of the SENT distribution is controlled by the decentralized autonomous organization (DAO), where token holders can vote on the creation and cancellation of specific distribution pools.
 
-## Protocl NFT Staking
+## Protocol NFT Staking
 
 Within the Consent ecosystem, every network component is represented as an NFT, such as authorized AI Agents, AI Agent User Interfaces (UIs), AI Agent Tools, and Core Infrastructure Components. SENT token holders can stake their tokens in compatible protocol NFT they wish to support or believe in, enabling a broad spectrum of project support.
 

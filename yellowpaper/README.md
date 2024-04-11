@@ -31,13 +31,13 @@ Welcome to the Consent Project Yellow Paper. This document serves as a comprehen
    - Decentralized Governance Structure
    - Governance Model and Implementation
 
-6. [Strategic Initiatives](./section_06_strategic_initiatives.md)
+6. [Strategic Initiatives](strategic_initiatives.md)
    - Multi-Chain Strategy
    - Capital Raising - YieldCombinator
 
-7. [Protection and Security Measures](./section_07_protection_and_security_measures.md)
+7. [Protection and Security Measures](protection_and_security_measures.md)
 
-8. [Conclusion](./section_08_conclusion.md)
+8. [Conclusion](conclusion.md)
 
 ## Contributing
 

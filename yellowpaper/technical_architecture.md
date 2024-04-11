@@ -167,7 +167,43 @@ By leveraging the power of collaborative AI through the multi-agent systems fram
 
 ## Consent Local
 
-Consent Local is a desktop application that integrates AI capabilities with blockchain technology, offering services like secure communication, intelligent language processing, and blockchain transactions within a user-friendly interface.
+The most basic application is the local Consent applicatoin that can be installed on Mac, Linux or Windows systems, leveraging the Electron framework to seamlessly blend web-based interfaces and server-side functionalities. The application combines AI capabilities with blockchain technology, offering users a range of services, including secure communication, intelligent language processing, and robust blockchain transactions.
+
+### Application Architecture
+
+- **Electron Framework**: Consent Local is packaged and installed using Electron, enabling native application experiences on PC and Linux platforms through web technologies.
+- **Large Language Model (LLM) Integration**: The core of Consent Local's AI capabilities lies in its integrated LLM and the corresponding API, which processes and generates human-like text. This setup allows for direct communication with the LLM, facilitating access to its sophisticated features.
+- **Foundational Technologies**: Consent Local utilizes Chromium for web-based user interfaces and Node.js for backend operations, delivering a responsive and efficient user experience.
+- **LangChain and Supportive Library**: LangChain, embedded within the application, links the LLM with vector stores and APIs, enhancing the language model's capabilities. A comprehensive library supports LangChain operations, ensuring smooth data handling and integration with third-party services.
+
+### Functional Modules:
+
+- **Vector Store**: Employs a storage solution for vectorized data, crucial for the LLM's information retrieval and processing tasks.
+- **Private Chat UI**: Offers a user interface optimized for private messaging, leveraging the LLM for conversational AI interactions.
+- **RPC (Remote Procedure Call)**: Facilitates networked server-side processes, ensuring seamless communication across the application.
+- **Private Tools and Security Keys**: A suite of internal tools aids in application administration and development, while a dedicated security module manages cryptographic keys for encryption and digital signatures.
+- **Prompt Rank and Smart Snap/Wallet**: Incorporates an algorithm to optimize user input prompts and a component that provides blockchain transaction capabilities, including a built-in wallet for digital asset management.
+
+Consent Local represents a multifaceted desktop application that embodies the integration of AI with blockchain technology, setting a new standard for secure, intelligent, and user-centric blockchain interactions.
+
+## Identity & Attestations
+
+Consent leverages the Ethereum Attestation Service by Coinbase to issue verifiable, on-chain attestations linked to users' Ethereum (EVM) wallets. These attestations confirm a user's country of residence and are essential for participating in decentralized governance activities at various levels. Attestations are unique to an individual's Ethereum wallet and cannot be transferred between wallets.
+
+## Verification Procedure
+
+- **Initiating Verification**: Users verify their country of residence through Coinbase's verification portal, establishing their eligibility for participation in relevant governance activities.
+- **Issuance of Attestation**: Successfully verified users receive an attestation bound to their specified Ethereum wallet address. Users can verify up to three wallet addresses via Coinbase.
+
+## Engaging in Decentralized Governance
+
+Verified attestations enable users to participate in governance mechanisms within their verified jurisdictions.
+
+- **Regional-Level Participation**: Attested users can participate in regional governance initiatives by claiming citizenship through a designated smart contract and receiving a non-transferrable citizenship NFT. This NFT serves as a gateway to engaging in governance activities but cannot be sold or transferred outside the DAO contracts.
+- **Sub-National Governance**: Future phases will introduce governance functionalities at state and local levels, requiring users to lock their citizenship NFTs within the corresponding jurisdiction's smart contracts to ensure commitment to the specific governance activities of that region.
+
+The governance framework is designed to facilitate a
+
 
 ## Identity & Attestations
 

@@ -4,7 +4,7 @@ Welcome to the Consent Project Yellow Paper. This document serves as a comprehen
 
 ## Table of Contents
 
-1. [Introduction](./introduction.md)
+1. [Introduction](introduction.md)
    - Overview of the Consent Project
    - Vision for human-AI collaboration
 

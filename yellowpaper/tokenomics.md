@@ -4,33 +4,30 @@
 
 SENT is the native token of the Consent ecosystem, serving as the foundation for transactions and various network activities. It plays a crucial role in rewarding users for their engagement with the software and allocating access to computational resources, directly correlating to the quantity of SENT a user holds.
 
-## Fair Launch and Distribution
+## Dynamic Distribution
 
-Consent is committed to a fair distribution of SENT tokens, ensuring that rewards are equitably shared among all contributors, including those providing capital and those engaged in community activities.
+The distribution of SENT tokens is not fixed but determined by two key mechanisms:
 
-## Innovative Distribution via the XCombinator Framework
+1. **Protocol NFT Staking (50% Allocation):** The NFT that has received the highest relative stake from the community receives the highest proportion of token emissions. 50% of the total SENT distribution is allocated in this manner, incentivizing community support for promising protocol NFTs.
 
-The XCombinator Framework is a revolutionary approach that enables capital contributors to receive SENT tokens proportional to their yield contributions. This system mitigates the risk of impermanent loss while fostering the growth of both liquidity and the broader ecosystem.
+2. **DAO-Controlled Pools (50% Allocation):** The remaining 50% of the SENT distribution is controlled by the decentralized autonomous organization (DAO), where token holders can vote on the creation and cancellation of specific distribution pools.
 
-## Supply and Allocation
+## Protocl NFT Staking
 
-The total supply of SENT tokens is capped at 21 million. The network initiates distribution with a daily release of 69,420 SENT, which gradually decreases over approximately 10 years. This ensures a fair and balanced allocation towards capital, coding, computational contributions, and community involvement.
+Within the Consent ecosystem, every network component is represented as an NFT, such as authorized AI Agents, AI Agent User Interfaces (UIs), AI Agent Tools, and Core Infrastructure Components. SENT token holders can stake their tokens in compatible AI Agents they wish to support or believe in, enabling a broad spectrum of project support.
 
-## Participation and Earnings
+Token emissions directed to each AI Agent are proportional to the total amount of SENT staked to that AI Agent, subsequently distributed to individual stakers. This creates a sophisticated Agent investment marketplace where competition and market dynamics incentivize AI Agents to self-improve over time.
 
-The ecosystem offers a structured pathway for earning SENT through contributions across four critical sectors: Capital, Code, Community, and Compute. The initial phase focuses on rewarding Code and Capital efforts, progressively integrating Compute and Community contributions.
+## DAO-Controlled Pools
 
-## Detailed Distribution Metrics
+Initially, the DAO-controlled pools include:
 
-SENT's distribution strategy covers various ecosystem components, including Code, Compute, Protection, Community, and Capital sectors. Each category, except Protection, is allocated 24% of the daily SENT distribution, with Protection receiving a smaller share of 4%. The distribution incorporates a daily decay rate to ensure long-term sustainability and equitable distribution.
+- **Capital Contributors Pool:** Rewards contributors who provide capital to the ecosystem.
+- **Ecosystem Contributors Pool:** Incentivizes community members who actively contribute to the growth and development of the ecosystem.
+- **Compute Providers Pool:** Compensates entities that provide computational resources to the network.
+- **Protection Pool:** A smaller allocation dedicated to safeguarding the ecosystem's security and integrity.
 
-## Staking Dynamics
-
-Within the Consent ecosystem, staking is redefined through the representation of every network component as an NFT. Examples of NFTs include authorised AI Agents, AI Agent User Interfaces (UIs), AI Agent Tools, and Core Infrastructure Components.
-
-SENT token holders can stake their tokens in compatible AI Agents they wish to support or believe in. This allows for a broad spectrum of project support, enabling token holders to stake SENT against diverse initiatives, creating a direct link between the success of projects and the rewards for stakers.
-
-SENT token emissions are directed in proportion to the total amount of SENT staked to each AI Agent and subsequently distributed to the individual stakers of that AI Agent. This creates a sophisticated Agent investment marketplace where competition and market dynamics incentivize AI Agents to self-improve over time.
+The DAO can vote to adjust the emissions allocated to each pool, collapse them or create new ones, ensuring flexibility and community governance over the token distribution.
 
 
 [<< Previous](technical_architecture.md) | [Next >>](governance.md)

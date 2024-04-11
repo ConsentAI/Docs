@@ -43,5 +43,5 @@ The Tokenomics model of the Consent Project is designed with long-term economic 
 
 The Tokenomics of the Consent Project are foundational to its operation and success, providing the economic structure and incentives necessary to foster a thriving, sustainable ecosystem. By aligning the interests of all participants and ensuring fair distribution and governance, Consent aims to create a decentralized, collaborative future powered by blockchain and AI.
 
-[<< Previous](technical_architecture.md) | [Next >>](link-to-next-section)
+[<< Previous](technical_architecture.md) | [Next >>](governance.md)
 

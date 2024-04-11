@@ -11,7 +11,7 @@ Protocol-Owned Liquidity forms the backbone of SENT's liquidity strategy, emphas
 
 Consent plans to extend the XCombinator framework to include a wider array of assets beyond stETH. This expansion involves meticulous adjustments in price feeds, asset movement analysis, and yield variances to accommodate the inclusion of new assets, ensuring a balanced reward allocation between deposited capital and generated yield.
 
-### NFA-Related Liquidity Deepening
+### Protocol NFT derived liquidity
 
 Each Consent Protocol NFT forms a token trading pair with SENT to deepen the overall liquidity of the ecosystem. This initiative broadens SENT's liquidity pool and introduces a novel layer of utility and investment opportunity within the Consent ecosystem, reinforcing the symbiotic relationship between protocol NFTs and the SENT token.
 

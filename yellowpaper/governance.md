@@ -32,5 +32,5 @@ To accommodate its multi-chain nature, Consent leverages technologies like zkSyn
 - **zkSync**: Utilized for scalable and cost-effective voting on the zkSync L2 rollup.
 - **LayerZero**: Facilitates cross-chain messaging, ensuring governance actions are synchronized across supported networks.
 
-[<< Previous](governance.md) | [Next >>](protection.md)
+[<< Previous](tokenomics.md) | [Next >>](strategic_initiatives.md)
 

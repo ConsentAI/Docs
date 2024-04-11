@@ -1,6 +1,6 @@
 # Strategic Initiatives
 
-The Consent Project is committed to pioneering strategic initiatives that bolster its ecosystem, enhancing interoperability, capital raising, and overall network sustainability. Below are key strategic initiatives currently underway.
+The Consent Protocol is committed to pioneering strategic initiatives that bolster its ecosystem, enhancing interoperability, capital raising, and overall network sustainability. Below are key strategic initiatives currently underway.
 
 ## Multi-Chain Strategy
 

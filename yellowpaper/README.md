@@ -14,14 +14,14 @@ Welcome to the Consent Project Yellow Paper. This document serves as a comprehen
    - [Compute Providers](ecosystem.md#compute-providers)
    - [Humans](ecosystem.md#humans)
 
-3. [Technical Architecture](./section_03_technical_architecture.md)
-   - [Tech Stack](./section_03_technical_architecture.md#tech-stack)
-   - [AI Agents](./section_03_technical_architecture.md#ai-agents)
-   - [Nodes & Decentralised AI Inference](./section_03_technical_architecture.md#nodes--decentralised-ai-inference)
-   - [Multi-Agent Systems](./section_03_technical_architecture.md#multi-agent-systems)
-   - [Consent Local](./section_03_technical_architecture.md#consent-local)
-   - [Identity & Attestations](./section_03_technical_architecture.md#identity--attestations)
-   - [Data Commons](./section_03_technical_architecture.md#data-commons)
+3. [Technical Architecture](technical_architecture.md)
+   - [Tech Stack](technical_architecture.md#tech-stack)
+   - [AI Agents](technical_architecture.md#ai-agents)
+   - [Nodes & Decentralised AI Inference](technical_architecture.md#nodes--decentralised-ai-inference)
+   - [Multi-Agent Systems](technical_architecture.md#multi-agent-systems)
+   - [Consent Local](technical_architecture.md#consent-local)
+   - [Identity & Attestations](technical_architecture.md#identity--attestations)
+   - [Data Commons](technical_architecture.md#data-commons)
 
 4. [Tokenomics](./section_04_tokenomics.md)
    - SENT: The Principal Currency

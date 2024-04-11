@@ -9,19 +9,19 @@ Welcome to the Consent Project Yellow Paper. This document serves as a comprehen
    - Vision for human-AI collaboration
 
 2. [Ecosystem](ecosystem.md)
-   - [Ecosystem Contributors](ecosystem.md##ecosystem-contributors)
-   - [Capital Providers](ecosystem.md##capital-providers)
-   - [Compute Providers](ecosystem.md##compute-providers)
+   - [Ecosystem Contributors](ecosystem.md#ecosystem-contributors)
+   - [Capital Providers](ecosystem.md#capital-providers)
+   - [Compute Providers](ecosystem.md#compute-providers)
    - [Humans](ecosystem.md##humans)
 
 3. [Technical Architecture](technical_architecture.md)
-   - [Tech Stack](technical_architecture.md##tech-stack)
-   - [AI Agents](technical_architecture.md##ai-agents)
-   - [Nodes & Decentralised AI Inference](technical_architecture.md##nodes--decentralised-ai-inference)
-   - [Multi-Agent Systems](technical_architecture.md##multi-agent-systems)
-   - [Consent Local](technical_architecture.md##consent-local)
-   - [Identity & Attestations](technical_architecture.md##identity--attestations)
-   - [Data Commons](technical_architecture.md##data-commons)
+   - [Tech Stack](technical_architecture.md#tech-stack)
+   - [AI Agents](technical_architecture.md#ai-agents)
+   - [Nodes & Decentralised AI Inference](technical_architecture.md#nodes--decentralised-ai-inference)
+   - [Multi-Agent Systems](technical_architecture.md#multi-agent-systems)
+   - [Consent Local](technical_architecture.md#consent-local)
+   - [Identity & Attestations](technical_architecture.md#identity--attestations)
+   - [Data Commons](technical_architecture.md#data-commons)
 
 4. [Tokenomics](tokenomics.md)
    - SENT: The Principal Currency
@@ -32,7 +32,7 @@ Welcome to the Consent Project Yellow Paper. This document serves as a comprehen
    - Governance Model and Implementation
 
 6. [Strategic Initiatives](strategic_initiatives.md)
-   - [Multi-Chain Strategy](strategic_initiatives.md##multi-chain-strategy)
+   - [Multi-Chain Strategy](strategic_initiatives.md#multi-chain-strategy)
    - [Capital Raising - XCombinator](strategic_initiatives.md#capital-raising---xcombinator-xd)
 
 7. [Protection and Security Measures](protection.md)

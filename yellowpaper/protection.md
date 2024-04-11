@@ -27,6 +27,3 @@ Payouts from the Protection Fund are carefully governed by predefined conditions
 - **Severity-Based Payouts**: The amount of payout depends on the severity of the bug discovered or the impact of the cyber-attack, ensuring fair compensation for the discovery and mitigation efforts.
 - **Transparent Process**: The process for determining the necessity of payouts involves detailed incident reporting and consensus among the ecosystem's developers and stakeholders.
 
-## Conclusion
-
-The Consent Project's approach to protection and security measures is comprehensive, covering various aspects of network integrity and user safety. By establishing a robust Protection Fund, implementing strategic fund utilization practices, and defining clear payout conditions, Consent aims to foster a secure and resilient ecosystem for all participants.

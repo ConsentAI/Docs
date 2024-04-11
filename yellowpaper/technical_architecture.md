@@ -37,3 +37,5 @@ Utilizing attestations, Consent verifies user identities and enables participati
 Data Commons is an initiative to create an open, accessible dataset repository. It supports AI development with high-quality, diverse datasets, reflecting the intricate details of different cultures and communities.
 
 This summary of the "Technical Architecture" section of the yellow paper highlights the Consent Project's innovative integration of blockchain and AI technologies. Detailed information about each component can be found in their respective subsections within the full documentation.
+
+[<< Previous](link-to-previous-section) | [Next >>](link-to-next-section)

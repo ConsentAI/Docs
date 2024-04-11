@@ -5,7 +5,7 @@ Welcome to the official documentation repository for Consent. This repository co
 ## Contents
 
 - [Whitepaper](/Whitepaper/README.md): Our Whitepaper provides a deep dive into the project's conceptual framework, goals, and overarching philosophy.
-- [Yellowpaper](/Yellowpaper/README.md): The Yellowpaper focuses on the technical specifications, architecture, and technical roadmaps.
+- [Yellowpaper](/yellowpaper/README.md): The Yellowpaper focuses on the technical specifications, architecture, and technical roadmaps.
 - [Additional Documentation](/AdditionalDocs/README.md): Find other relevant documents here, including guides, API documentation, and more.
 
 ## How to Contribute

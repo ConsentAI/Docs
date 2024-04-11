@@ -9,7 +9,7 @@ Welcome to the Consent Project Yellow Paper. This document serves as a comprehen
    - Vision for human-AI collaboration
 
 2. [Ecosystem](ecosystem.md)
-   - [Ecosystem Contributors](ecosystem.md#ecosystem-contributors)
+   - [Ecosystem Contributors](#ecosystem-contributors)
    - [Capital Providers](ecosystem.md#capital-providers)
    - [Compute Providers](ecosystem.md#compute-providers)
    - [Humans](ecosystem.md#humans)

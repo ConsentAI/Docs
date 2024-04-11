@@ -8,11 +8,11 @@ Welcome to the Consent Project Yellow Paper. This document serves as a comprehen
    - Overview of the Consent Project
    - Vision for human-AI collaboration
 
-2. [Ecosystem](./section_02_ecosystem.md)
-   - [Ecosystem Contributors](./section_02_ecosystem.md#ecosystem-contributors)
-   - [Capital Providers](./section_02_ecosystem.md#capital-providers)
-   - [Compute Providers](./section_02_ecosystem.md#compute-providers)
-   - [Humans](./section_02_ecosystem.md#humans)
+2. [Ecosystem](ecosystem.md)
+   - [Ecosystem Contributors](ecosystem.md#ecosystem-contributors)
+   - [Capital Providers](ecosystem.md#capital-providers)
+   - [Compute Providers](ecosystem.md#compute-providers)
+   - [Humans](ecosystem.md#humans)
 
 3. [Technical Architecture](./section_03_technical_architecture.md)
    - [Tech Stack](./section_03_technical_architecture.md#tech-stack)

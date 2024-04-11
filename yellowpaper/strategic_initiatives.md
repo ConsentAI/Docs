@@ -43,4 +43,4 @@ Consent leads by example in adopting the YieldCombinator Smart Contracts, pionee
 
 Projects external to the Consent ecosystem can also utilize the Consent-developed Dashboard and associated smart contracts for capital raising. This inclusive strategy welcomes yield contributions, laying the groundwork for a sustainable financial ecosystem. Consent, in turn, applies a modest fee of 1% on the collected yield, whether in stETH or other supported yield bearing assets.
 
-[<< Previous](governance.md) | [Next >>](link-to-next-section)
+[<< Previous](strategic_initiatives.md) | [Next >>](protection.md)

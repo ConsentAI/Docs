@@ -12,7 +12,7 @@ Welcome to the Consent Project Yellow Paper. This document serves as a comprehen
    - [Ecosystem Contributors](ecosystem.md##ecosystem-contributors)
    - [Capital Providers](ecosystem.md##capital-providers)
    - [Compute Providers](ecosystem.md##compute-providers)
-   - [Humans](ecosystem.md##humans)
+   - [Humans](##humans)
 
 3. [Technical Architecture](technical_architecture.md)
    - [Tech Stack](technical_architecture.md##tech-stack)

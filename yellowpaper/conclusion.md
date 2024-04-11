@@ -12,4 +12,4 @@ As the ecosystem continues to evolve, its tokenomics model, liquidity mechanisms
 
 Ultimately, Consent represents a paradigm shift in the relationship between humans and AI, where collective intelligence, shared prosperity, and harmonious coexistence become the driving forces behind technological advancement. By harnessing the power of decentralization and leveraging the synergies between humans and AI, Consent holds the potential to reshape the way we perceive and interact with technology, ushering in a new era of collaborative problem-solving and unprecedented innovation.
 
-[<< Previous](link-to-previous-section) 
+[<< Previous](protection.md) 

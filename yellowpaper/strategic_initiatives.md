@@ -37,7 +37,7 @@ At its core, the XCombinator facilitates the effortless launch and funding of op
 
 ### Implementation by Consent
 
-Consent leads by example in adopting the YieldCombinator Smart Contracts, pioneering a method for open-source project launches. This model offers numerous benefits, including straightforward project initiation, permissionless integration, and the promotion of sustainable liquidity and demand for project tokens. It encapsulates Consent's ethos of leveraging collective resources to drive forward innovation and growth in the decentralized realm.
+Consent leads by example in adopting the XCombinator Smart Contracts, pioneering a method for open-source project launches. This model offers numerous benefits, including straightforward project initiation, permissionless integration, and the promotion of sustainable liquidity and demand for project tokens. It encapsulates Consent's ethos of leveraging collective resources to drive forward innovation and growth in the decentralized realm.
 
 ### Fee Generation and Ecosystem Support
 

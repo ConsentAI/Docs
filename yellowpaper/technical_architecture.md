@@ -74,7 +74,50 @@ By offering NFT representations of AI Agents, Consent empowers users with greate
 
 ## Nodes & Decentralised AI Inference
 
-The ecosystem leverages decentralized nodes for AI inference, providing computational resources critical for AI operations. This setup ensures the smooth functioning of AI Agents and supports decentralized model registries.
+### Overview
+
+The Consent ecosystem is evolving to enable individuals to contribute to the network by providing inference capabilities to SENT users through the operation of nodes. These nodes, which currently represent local Large Language Models (LLMs), will play a crucial role in the decentralized compute infrastructure of the Consent platform.
+
+### Node Operation and Rewards
+
+At present, operating a local inference node is optional, primarily benefiting users who wish to host AI Agents locally. However, as the system matures, node operation will become essential for those seeking to contribute to the Compute and Community functions within the Consent ecosystem.
+
+In the initial stages, running a local inference node does not generate direct rewards. However, as the network evolves, nodes that actively contribute to Consent's Compute and Community functionalities will receive compensation. This incentivization mechanism aims to encourage participation and support the network's growth and utility expansion.
+
+### Technical Requirements and Setup
+
+To ensure optimal performance and reliability, running a Consent node requires the following hardware specifications:
+
+- 64GB of storage
+- GPU with at least 16GB of vRAM
+- 16GB of system RAM
+- CPU with a minimum of 4 cores
+
+These requirements enable nodes to efficiently handle the demands of running LLMs and other resource-intensive tasks. Detailed setup instructions for Windows users are available on Consent's GitHub repository, with plans to develop a GUI-less node operation suitable for VPS hosting.
+
+### Decentralized Compute Provision
+
+As the Consent infrastructure continues to develop, the future of compute provision within the ecosystem is promising. The platform aims to enable decentralized compute contributions, collaborating with platforms like Akash to create a more flexible and expansive compute provision mechanism. This approach will leverage cloud infrastructure and focus on Inference Per Second (IPS) as a key performance metric.
+
+### Decentralized Model Registry
+
+Consent is establishing a decentralized model registry that allows compute providers to host model weights and definitions. This registry promotes a distributed file-sharing network, enhancing the ecosystem's robustness by leveraging the InterPlanetary File System (IPFS). The decentralized nature of the registry ensures resilience against potential adversarial actions, maintaining the unrestricted flow of AI within the Consent ecosystem.
+
+### Transparency and Resource Utilization
+
+To foster a fair and competitive marketplace for AI inference, Consent prioritizes transparency in router operation and compute resource utilization. By publicly tracking model popularity, compute providers can make informed decisions regarding model prioritization and pricing strategies.
+
+The system measures session lengths and sets prices per unit of time, accommodating both predetermined and variable output lengths to cater to the diverse nature of AI applications. This pricing mechanism ensures that compute providers can optimize their offerings while maintaining a balanced and efficient marketplace.
+
+### Compensation for Model and Agent Builders
+
+Consent recognizes the value of contributions made by model and agent builders within the ecosystem. These creators receive compensation proportional to their contributions and the usage of their models, regardless of the compute provider hosting their work. This framework fosters a culture of innovation and development, incentivizing the creation of high-quality assets that drive the growth and utility of the Consent network.
+
+### Balancing Innovation and Security
+
+The Consent approach to decentralized AI inference strikes a balance between open innovation and secure, reliable computation. Local nodes are equipped with trusted smart contracts for standard operations, providing a secure foundation for AI execution. However, when engaging with third-party models, users are encouraged to exercise heightened responsibility and due diligence to ensure the integrity and safety of their interactions.
+
+By fostering a decentralized compute infrastructure, transparent resource utilization, and a fair compensation model for contributors, Consent is creating a robust and sustainable ecosystem that empowers individuals to actively participate in the evolution of AI technology while maintaining the highest standards of security and reliability.
 
 ## Multi-Agent Systems
 

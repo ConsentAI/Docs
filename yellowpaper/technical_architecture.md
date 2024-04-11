@@ -38,4 +38,4 @@ Data Commons is an initiative to create an open, accessible dataset repository. 
 
 This summary of the "Technical Architecture" section of the yellow paper highlights the Consent Project's innovative integration of blockchain and AI technologies. Detailed information about each component can be found in their respective subsections within the full documentation.
 
-[<< Previous](ecosystem.md) | [Next >>](link-to-next-section)
+[<< Previous](ecosystem.md) | [Next >>](tokenomics.md)

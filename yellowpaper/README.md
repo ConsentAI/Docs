@@ -20,7 +20,7 @@ Welcome to the Consent Project Yellow Paper. This document serves as a comprehen
    - [Nodes & Decentralised AI Inference](technical_architecture.md#nodes--decentralised-ai-inference)
    - [Multi-Agent Systems](technical_architecture.md#multi-agent-systems)
    - [Consent Local](technical_architecture.md#consent-local)
-   - [Identity & Attestations](technical_architecture.md#identity--attestations)
+   - [Identity & Attestations](technical_architecture.md##identity--attestations)
    - [Data Commons](technical_architecture.md#data-commons)
 
 4. [Tokenomics](./section_04_tokenomics.md)

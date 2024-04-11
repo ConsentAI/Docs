@@ -1,42 +1,56 @@
 # Consent Yellow Paper
 
-Welcome to the Yellow Paper for the Consent Project, a comprehensive document detailing the technical framework, ecosystem architecture, tokenomics, and the strategic vision behind the Consent Project. This document serves as a deep dive into the mechanisms that enable symbiotic collaboration between humans and AI within a decentralized infrastructure.
-
-## Introduction
-
-The Consent Project aims to redefine the relationship between humans and artificial intelligence (AI) by establishing a decentralized ecosystem for collaborative innovation and problem-solving. This Yellow Paper outlines the key components, technical architecture, and strategic roadmap of the Consent ecosystem.
+Welcome to the Consent Project Yellow Paper. This document serves as a comprehensive overview of the Consent ecosystem, detailing its key components, technical architecture, tokenomics, and strategic roadmap.
 
 ## Table of Contents
 
-- **Introduction**
-  - Overview of the Consent Project and its vision for human-AI collaboration.
-  
-- **Ecosystem**
-  - Detailed descriptions of the roles and contributions of Ecosystem Contributors, Capital Providers, Compute Providers, and Humans within the Consent ecosystem.
+1. [Introduction](./section_01_introduction.md)
+   - Overview of the Consent Project
+   - Vision for human-AI collaboration
 
-- **Technical Architecture**
-  - An in-depth look at the technical underpinnings of the Consent Project, including AI Agents, the AI Agent SDK, NFT representations of AI Agents, decentralized AI inference, and the multi-agent systems framework.
-  - **Tech Stack**: Overview of the tools and technologies that form the foundation of the Consent ecosystem.
+2. [Ecosystem](./section_02_ecosystem.md)
+   - [Ecosystem Contributors](./section_02_ecosystem.md#ecosystem-contributors)
+   - [Capital Providers](./section_02_ecosystem.md#capital-providers)
+   - [Compute Providers](./section_02_ecosystem.md#compute-providers)
+   - [Humans](./section_02_ecosystem.md#humans)
 
-- **Governance**
-  - Examination of the decentralized governance structure, community multisig, and the implementation of an optimistic dual governance model.
-  
-- **Strategic Initiatives**
-  - Insight into Consent's multi-chain strategy, capital raising through the Yield Combinator Framework, and the strategic direction for fostering a secure and resilient ecosystem.
-  
-- **Protection and Security Measures**
-  - Discussion on the Protection Fund strategy, types of fund utilization, and the comprehensive security framework established to safeguard the Consent network and its participants.
+3. [Technical Architecture](./section_03_technical_architecture.md)
+   - [Tech Stack](./section_03_technical_architecture.md#tech-stack)
+   - [AI Agents](./section_03_technical_architecture.md#ai-agents)
+   - [Nodes & Decentralised AI Inference](./section_03_technical_architecture.md#nodes--decentralised-ai-inference)
+   - [Multi-Agent Systems](./section_03_technical_architecture.md#multi-agent-systems)
+   - [Consent Local](./section_03_technical_architecture.md#consent-local)
+   - [Identity & Attestations](./section_03_technical_architecture.md#identity--attestations)
+   - [Data Commons](./section_03_technical_architecture.md#data-commons)
 
-- **Conclusion**
-  - A summary of Consent's vision for the future of human-AI collaboration and the transformative impact of the project on technological advancement and collective intelligence.
+4. [Tokenomics](./section_04_tokenomics.md)
+   - SENT: The Principal Currency
+   - Distribution and Staking Dynamics
+
+5. [Governance](./section_05_governance.md)
+   - Decentralized Governance Structure
+   - Governance Model and Implementation
+
+6. [Strategic Initiatives](./section_06_strategic_initiatives.md)
+   - Multi-Chain Strategy
+   - Capital Raising - YieldCombinator
+
+7. [Protection and Security Measures](./section_07_protection_and_security_measures.md)
+
+8. [Conclusion](./section_08_conclusion.md)
 
 ## Contributing
 
-The Consent Project welcomes contributions from developers, researchers, and enthusiasts. Whether you're interested in technical development, governance, or any other aspect of the project, your input is valuable. Please refer to our [Contribution Guidelines](CONTRIBUTING.md) for more details on how you can contribute to the Consent Project.
+For those interested in contributing to the Consent Yellow Paper, please see our [Contribution Guidelines](CONTRIBUTING.md).
 
-## License
+## Ownership
 
-This documentation and the Consent Project are licensed under the [MIT License](LICENSE.md).
+Each section of this document has a designated owner. For more details on section ownership, please refer to [OWNERS.md](OWNERS.md).
 
-This Yellow Paper is a living document and may be updated to reflect the ongoing development and evolution of the Consent Project. For the latest version, please check back regularly.
+## References
 
+For a detailed list of references used in the creation of this document, please refer to the [References Section](./section_references.md).
+
+---
+
+The Consent Yellow Paper is a living document subject to updates and revisions. For the latest version, please visit this repository regularly.

@@ -4,9 +4,9 @@ The Consent Project is committed to pioneering strategic initiatives that bolste
 
 ## Multi-Chain Strategy
 
-Consent has successfully realized its vision of a multi-chain ecosystem, strategically positioning the main SENT token on the Base network while maintaining a presence on Ethereum. This approach optimally leverages Ethereum's robust security and capital advantages, while Base serves as the foundation due to its low transaction costs and substantial pool of staked Ether (stETH), a critical resource for utilizing SENT in AI model inference.
+Consent aims to successfully realize its vision of a multi-chain ecosystem, strategically positioning the main SENT token on the Base network while maintaining a presence on Ethereum. This approach optimally leverages Ethereum's robust security and capital advantages, while Base serves as the foundation due to its low transaction costs and substantial pool of staked Ether (stETH), a critical resource for utilizing SENT in AI model inference.
 
-As of April 1, 2024, SENT operates seamlessly across multiple blockchain networks, commencing with Base and Ethereum. This expansion was driven by the objective of enhancing SENT's accessibility and usability across various blockchain environments, thereby augmenting its utility and reach within the rapidly evolving Web3 landscape.
+SENT will operate seamlessly across multiple blockchain networks, commencing with Base and Ethereum. This expansion was driven by the objective of enhancing SENT's accessibility and usability across various blockchain environments, thereby augmenting its utility and reach within the rapidly evolving Web3 landscape.
 
 The implementation leverages LayerZero's Omnichain Fungible Token (OFT) paradigm, enabling SENT to achieve instantaneous interoperability across different chains. This paradigm ensures the immutability and non-upgradability of contracts, offering a superior user experience through gas abstraction and an oracle function that standardizes yield contributions by denoting them in ETH price.
 
@@ -18,13 +18,13 @@ This framework not only simplifies the process of introducing SENT to new networ
 
 Consent's multi-chain infrastructure signifies a significant stride towards a truly chain-agnostic ecosystem, where interoperability and seamless cross-chain functionality become the cornerstones of its expansion strategy.
 
-## Capital Raising - YieldCombinator (YD)
+## Capital Raising - XCombinator (XD)
 
 Within the Consent network, every element, from AI Agents and front-end interfaces to code repositories, becomes a participatory force in the ecosystem when represented as a non-fungible token (NFT) with the capability to stake SENT. These components are seamlessly integrated into the Shared Yield Generator process, highlighting the network's innovative approach to capital contribution and project development.
 
-### The YieldCombinator Framework: Advantages Over Traditional Models
+### The XCombinator Framework: Advantages Over Traditional Models
 
-The YieldCombinator framework offers several advantages over traditional capital raising models:
+The XCombinator framework offers several advantages over traditional capital raising models:
 - **Indirect Capital Contribution**: Unlike conventional methods that require upfront capital investment, the focus here is on leveraging yield generation, minimizing direct financial barriers to participation.
 - **Impermanent Loss Mitigation**: The framework sidesteps the common pitfalls of liquidity provision, including impermanent loss, fostering a more secure environment for contributors.
 - **Sustained SENT Demand**: By basing rewards on yield generation, the Shared Yield Generator ensures ongoing demand for the SENT token, a vital factor for the ecosystem's longevity.
@@ -33,7 +33,7 @@ The YieldCombinator framework offers several advantages over traditional capital
 
 ### Capital Raising via YieldCombinator
 
-At its core, the YieldCombinator facilitates the effortless launch and funding of open-source projects within the Consent network. Projects distribute native tokens through this framework, attracting staked Ether (stETH) contributions from users. In return, stakers receive project tokens proportionate to their contribution. This symbiotic relationship fortifies project support, with half of the generated yield reinvested in purchasing project tokens and the remainder enhancing automated market maker (AMM) liquidity.
+At its core, the XCombinator facilitates the effortless launch and funding of open-source projects within the Consent network. Projects distribute native tokens through this framework, attracting staked Ether (stETH) contributions from users. In return, stakers receive project tokens proportionate to their contribution. This symbiotic relationship fortifies project support, with half of the generated yield reinvested in purchasing project tokens and the remainder enhancing automated market maker (AMM) liquidity.
 
 ### Implementation by Consent
 
@@ -41,4 +41,4 @@ Consent leads by example in adopting the YieldCombinator Smart Contracts, pionee
 
 ### Fee Generation and Ecosystem Support
 
-Projects external to the Consent ecosystem can also utilize the Consent-developed Dashboard and associated smart contracts for capital raising. This inclusive strategy welcomes yield contributions, laying the groundwork for a sustainable financial ecosystem. Consent, in turn, applies a modest fee of 10% on the collected yield (whether in stETH or other assets detailed in the Multi-Asset Expansion framework
+Projects external to the Consent ecosystem can also utilize the Consent-developed Dashboard and associated smart contracts for capital raising. This inclusive strategy welcomes yield contributions, laying the groundwork for a sustainable financial ecosystem. Consent, in turn, applies a modest fee of 1% on the collected yield, whether in stETH or other supported yield bearing assets.

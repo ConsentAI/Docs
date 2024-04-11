@@ -190,24 +190,29 @@ Consent Local represents a multifaceted desktop application that embodies the in
 
 Consent leverages the Ethereum Attestation Service by Coinbase to issue verifiable, on-chain attestations linked to users' Ethereum (EVM) wallets. These attestations confirm a user's country of residence and are essential for participating in decentralized governance activities at various levels. Attestations are unique to an individual's Ethereum wallet and cannot be transferred between wallets.
 
-## Verification Procedure
+### Verification Procedure
 
 - **Initiating Verification**: Users verify their country of residence through Coinbase's verification portal, establishing their eligibility for participation in relevant governance activities.
 - **Issuance of Attestation**: Successfully verified users receive an attestation bound to their specified Ethereum wallet address. Users can verify up to three wallet addresses via Coinbase.
 
-## Engaging in Decentralized Governance
+### Engaging in Decentralized Governance
 
 Verified attestations enable users to participate in governance mechanisms within their verified jurisdictions.
 
 - **Regional-Level Participation**: Attested users can participate in regional governance initiatives by claiming citizenship through a designated smart contract and receiving a non-transferrable citizenship NFT. This NFT serves as a gateway to engaging in governance activities but cannot be sold or transferred outside the DAO contracts.
 - **Sub-National Governance**: Future phases will introduce governance functionalities at state and local levels, requiring users to lock their citizenship NFTs within the corresponding jurisdiction's smart contracts to ensure commitment to the specific governance activities of that region.
 
-The governance framework is designed to facilitate a
+The governance framework is designed to facilitate a transparent and inclusive voting process, supported by decentralized platforms like Tally.xyz. Efforts are underway to provide a user-friendly interface for streamlining the attestation process and enhancing the overall governance participation experience.
 
+### Future Directions and Considerations
 
-## Identity & Attestations
+- **Diversification of Attestation Services**: Exploring alternatives to Coinbase for attestation issuance, such as Polygon ID or Worldcoin, to further decentralize the verification process.
+- **Scalability and Performance**: As the user base expands, the system's scalability will be crucial, possibly requiring enhancements to accommodate a larger pool of participants.
+- **Refinement of Governance Protocols**: Establishing clear, robust governance protocols at all jurisdictional levels will be key to maintaining a transparent and effective governance system.
+- **Security Measures**: Continuous security assessments and updates are vital to safeguarding the integrity of the on-chain verification and decentralized governance framework.
 
-Utilizing attestations, Consent verifies user identities and enables participation in decentralized governance. This system links attestations to Ethereum wallets, confirming user eligibility for governance activities.
+This innovative approach to on-chain verification and decentralized governance marks a significant step towards more autonomous and representative decision-making processes within the Ethereum ecosystem.
+
 
 ## Data Commons
 

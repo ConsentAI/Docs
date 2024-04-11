@@ -26,7 +26,7 @@ SENT's distribution strategy covers various ecosystem components, including Code
 
 ## SENT Staking Dynamics
 
-Within the Consent ecosystem, staking is redefined through the representation of every network component as a Non-Fungible Agent (NFA). Examples of NFAs include AI Agents, AI Agent User Interfaces (UIs), AI Agent Tools, and Core Infrastructure Components.
+Within the Consent ecosystem, staking is redefined through the representation of every network component as an NFT. Examples of NFTs include authorised AI Agents, AI Agent User Interfaces (UIs), AI Agent Tools, and Core Infrastructure Components.
 
 SENT token holders can stake their tokens in compatible AI Agents they wish to support or believe in. This allows for a broad spectrum of project support, enabling token holders to stake SENT against diverse initiatives, creating a direct link between the success of projects and the rewards for stakers.
 

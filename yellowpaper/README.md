@@ -23,11 +23,11 @@ Welcome to the Consent Project Yellow Paper. This document serves as a comprehen
    - [Identity & Attestations](technical_architecture.md##identity--attestations)
    - [Data Commons](technical_architecture.md##data-commons)
 
-4. [Tokenomics](./section_04_tokenomics.md)
+4. [Tokenomics](tokenomics.md)
    - SENT: The Principal Currency
    - Distribution and Staking Dynamics
 
-5. [Governance](./section_05_governance.md)
+5. [Governance](governance.md)
    - Decentralized Governance Structure
    - Governance Model and Implementation
 

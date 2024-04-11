@@ -14,7 +14,7 @@ The distribution of SENT tokens is not fixed but determined by two key mechanism
 
 ## Protocl NFT Staking
 
-Within the Consent ecosystem, every network component is represented as an NFT, such as authorized AI Agents, AI Agent User Interfaces (UIs), AI Agent Tools, and Core Infrastructure Components. SENT token holders can stake their tokens in compatible AI Agents they wish to support or believe in, enabling a broad spectrum of project support.
+Within the Consent ecosystem, every network component is represented as an NFT, such as authorized AI Agents, AI Agent User Interfaces (UIs), AI Agent Tools, and Core Infrastructure Components. SENT token holders can stake their tokens in compatible protocol NFT they wish to support or believe in, enabling a broad spectrum of project support.
 
 Token emissions directed to each AI Agent are proportional to the total amount of SENT staked to that AI Agent, subsequently distributed to individual stakers. This creates a sophisticated Agent investment marketplace where competition and market dynamics incentivize AI Agents to self-improve over time.
 

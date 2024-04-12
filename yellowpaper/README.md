@@ -5,8 +5,8 @@ Welcome to the Consent Project Yellow Paper. This document serves as a comprehen
 ## Table of Contents
 
 1. [Introduction](introduction.md)
-   - Overview of the Consent Project
-   - Vision for human-AI collaboration
+   - [Vision & Objectives](introduction.md#vision-and-overview)
+   - [Key Objectives](introduction.md#key-objectives)
 
 2. [Ecosystem](ecosystem.md)
    - [Ecosystem Contributors](ecosystem.md#ecosystem-contributors)

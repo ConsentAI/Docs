@@ -30,8 +30,9 @@ Welcome to the Consent Project Yellow Paper. This document serves as a comprehen
    - [Liquidity](liquidity.md)
 
 5. [Governance](governance.md)
-   - Decentralized Governance Structure
-   - Governance Model and Implementation
+   - [Decentralized Governance Structure](governance.md#hierarchical-and-mesh-governance)
+   - [Optimistic Dual Governance](governance.md#optimistic-dual-governance-model)
+   - [Multichain Governance](governance.md#multichain-governance)
 
 6. [Strategic Initiatives](strategic_initiatives.md)
    - [Multi-Chain Strategy](strategic_initiatives.md#multi-chain-strategy)

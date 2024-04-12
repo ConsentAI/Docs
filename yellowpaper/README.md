@@ -44,7 +44,7 @@ Welcome to the Consent Project Yellow Paper. This document serves as a comprehen
 
 ## Contributing
 
-For those interested in contributing to the Consent Yellow Paper, please see our [Contribution Guidelines](CONTRIBUTING.md).
+For those interested in contributing to the Consent Yellow Paper, please see our [Contribution Guidelines](contributors.md).
 
 ## Ownership
 

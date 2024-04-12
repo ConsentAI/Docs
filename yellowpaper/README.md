@@ -26,6 +26,7 @@ Welcome to the Consent Project Yellow Paper. This document serves as a comprehen
 4. [Tokenomics](tokenomics.md)
    - SENT: The Principal Currency
    - Distribution and Staking Dynamics
+   - [Liquidity](liquidity.md)
 
 5. [Governance](governance.md)
    - Decentralized Governance Structure

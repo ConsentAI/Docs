@@ -10,7 +10,7 @@ Welcome to the official documentation repository for Consent. This repository co
 
 ## How to Contribute
 
-We welcome contributions from the community. If you wish to contribute to the documentation, please see our [Contribution Guidelines](contributing.md) for more information on making contributions.
+We welcome contributions from the community. If you wish to contribute to the documentation, please see our [Contribution Guidelines](contributors.md) for more information on making contributions.
 
 ## License
 

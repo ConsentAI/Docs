@@ -54,7 +54,7 @@ Let's look at an example of how to contribute to Consent Protocol:
 
 3. They do the work and translate the whitepaper.
 
-4. They submit the work on the relevant contributions table. In this case, the whitepaper falls within the "Community Sub-DAO". They can see this from the responsibilities examples of the Community Sub-DAO [here](https://github.com/Morlabs/DAO/blob/main/Governance%20structure.md).
+4. They submit the work on the relevant contributions table. In this case, the whitepaper falls within the "Community Sub-DAO". They can see this from the responsibilities examples of the Community Sub-DAO [here]().
 
 5. It took the contributor 2 hours to complete this work, and they value their time at $30 per hour. So that would be $60. They enter their eth address, proof of work, description of work, $60, sub-dao = community, on the contributions table.
 

@@ -18,7 +18,7 @@ Welcome to the Consent Project Yellow Paper. This document serves as a comprehen
    - [Tech Stack](technical_architecture.md#tech-stack)
    - [AI Agents](technical_architecture.md#ai-agents)
       - [Local AI Agents](technical_architecture.md#local-ai-agents)
-      - [On-chain AI Agents](technical_architecture.md#onchain-ai-agents)
+      - [On-chain AI Agents](technical_architecture.md#on-chain-ai-agents)
    - [Multi-Agent Systems](technical_architecture.md#multi-agent-systems)
    - [Nodes & Decentralised AI Inference](technical_architecture.md#nodes--decentralised-ai-inference)
    - [Identity & Attestations](technical_architecture.md#identity--attestations)

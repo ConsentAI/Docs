@@ -22,3 +22,5 @@ Consent's liquidity strategy transcends the Base network, aiming for a strategic
 Consent's vision for a diversified and resilient ecosystem is further underscored by its initiative to integrate a variety of assets beyond stETH and extend its liquidity framework to other blockchain networks and yield-bearing digital assets. This strategic diversification aims to foster ecosystem growth, connect with new communities, and ensure Consent's adaptability in the evolving Web3 landscape.
 
 Consent's liquidity and pricing strategy exemplifies a forward-thinking approach to ecosystem development, combining innovative liquidity mechanisms with strategic expansions and integrations to foster a stable, growth-oriented economic environment.
+
+[<< Previous](tokenomics.md) | [Next >>](governance.md)

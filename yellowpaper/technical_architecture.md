@@ -61,7 +61,31 @@ Agent Framework Compatibility: The SDK supports various orchestration frameworks
 Inter-Agent Communication: AI Agents developed using the SDK can operate independently or register with the Consent network to collaborate and provide network services. The SDK architecture facilitates seamless interaction with 3rd party APIs, RPC nodes, and other agents, fostering a cooperative and interconnected agent ecosystem.
 Indexing & Model Repositories: The SDK offers structured repositories for Indexes and Models, providing efficient data organization and access, as well as hosting the machine learning algorithms that power AI Agents' intelligent decision-making capabilities.
 Foundation for Development: The SDK serves as the bedrock for the entire system, offering essential "Storage" for secure data retention and "Compute" capacity to support the operations of AI Agents. Engineered for scalability, the SDK ensures that storage and compute services can progressively decentralize as the Consent network evolves.
-NFT Representations of AI Agents
+
+## Local Agents
+
+The most basic application is the local Consent applicatoin that can be installed on Mac, Linux or Windows systems, leveraging the Electron framework to seamlessly blend web-based interfaces and server-side functionalities. The application combines AI capabilities with blockchain technology, offering users a range of services, including secure communication, intelligent language processing, and robust blockchain transactions.
+
+### Application Architecture
+
+- **Electron Framework**: Consent Local is packaged and installed using Electron, enabling native application experiences on PC and Linux platforms through web technologies.
+- **Large Language Model (LLM) Integration**: The core of Consent Local's AI capabilities lies in its integrated LLM and the corresponding API, which processes and generates human-like text. This setup allows for direct communication with the LLM, facilitating access to its sophisticated features.
+- **Foundational Technologies**: Consent Local utilizes Chromium for web-based user interfaces and Node.js for backend operations, delivering a responsive and efficient user experience.
+- **LangChain and Supportive Library**: LangChain, embedded within the application, links the LLM with vector stores and APIs, enhancing the language model's capabilities. A comprehensive library supports LangChain operations, ensuring smooth data handling and integration with third-party services.
+
+### Functional Modules:
+
+- **Vector Store**: Employs a storage solution for vectorized data, crucial for the LLM's information retrieval and processing tasks.
+- **Private Chat UI**: Offers a user interface optimized for private messaging, leveraging the LLM for conversational AI interactions.
+- **RPC (Remote Procedure Call)**: Facilitates networked server-side processes, ensuring seamless communication across the application.
+- **Private Tools and Security Keys**: A suite of internal tools aids in application administration and development, while a dedicated security module manages cryptographic keys for encryption and digital signatures.
+- **Prompt Rank and Smart Snap/Wallet**: Incorporates an algorithm to optimize user input prompts and a component that provides blockchain transaction capabilities, including a built-in wallet for digital asset management.
+
+Consent Local represents a multifaceted desktop application that embodies the integration of AI with blockchain technology, setting a new standard for secure, intelligent, and user-centric blockchain interactions.
+
+
+## NFT Representations of AI Agents
+
 AI Agents within the Consent ecosystem can be optionally represented as Non-Fungible Tokens (NFTs), providing users with the flexibility to run them locally or mint them as NFTs for a distinct on-chain presence. These NFTs encapsulate the agent's capabilities, provenance, and operational parameters, ensuring interoperability and consistency across the ecosystem.
 
 Minting an AI Agent as an NFT offers several benefits:
@@ -71,53 +95,6 @@ SmartRank Capability: The SmartRank system leverages Web3 datasets to evaluate a
 Unique Economic Model: AI Agents represented as NFTs enable a distinctive economic model for purchase, sale, and ownership transfer, reinforced by staking mechanisms that ensure transactional integrity.
 Decentralized Ethos: NFT-based AI Agents maintain a decentralized ethos, with transparent code and dependencies, accessible through dedicated marketplaces that foster a vibrant and open ecosystem.
 By offering NFT representations of AI Agents, Consent empowers users with greater control, flexibility, and transparency in their interactions with these intelligent entities, while also creating new opportunities for innovation and value creation within the Web3 landscape.
-
-## Nodes & Decentralised AI Inference
-
-### Overview
-
-The Consent ecosystem is evolving to enable individuals to contribute to the network by providing inference capabilities to SENT users through the operation of nodes. These nodes, which currently represent local Large Language Models (LLMs), will play a crucial role in the decentralized compute infrastructure of the Consent platform.
-
-### Node Operation and Rewards
-
-At present, operating a local inference node is optional, primarily benefiting users who wish to host AI Agents locally. However, as the system matures, node operation will become essential for those seeking to contribute to the Compute and Community functions within the Consent ecosystem.
-
-In the initial stages, running a local inference node does not generate direct rewards. However, as the network evolves, nodes that actively contribute to Consent's Compute and Community functionalities will receive compensation. This incentivization mechanism aims to encourage participation and support the network's growth and utility expansion.
-
-### Technical Requirements and Setup
-
-To ensure optimal performance and reliability, running a Consent node requires the following hardware specifications:
-
-- 64GB of storage
-- GPU with at least 16GB of vRAM
-- 16GB of system RAM
-- CPU with a minimum of 4 cores
-
-These requirements enable nodes to efficiently handle the demands of running LLMs and other resource-intensive tasks. Detailed setup instructions for Windows users are available on Consent's GitHub repository, with plans to develop a GUI-less node operation suitable for VPS hosting.
-
-### Decentralized Compute Provision
-
-As the Consent infrastructure continues to develop, the future of compute provision within the ecosystem is promising. The platform aims to enable decentralized compute contributions, collaborating with platforms like Akash to create a more flexible and expansive compute provision mechanism. This approach will leverage cloud infrastructure and focus on Inference Per Second (IPS) as a key performance metric.
-
-### Decentralized Model Registry
-
-Consent is establishing a decentralized model registry that allows compute providers to host model weights and definitions. This registry promotes a distributed file-sharing network, enhancing the ecosystem's robustness by leveraging the InterPlanetary File System (IPFS). The decentralized nature of the registry ensures resilience against potential adversarial actions, maintaining the unrestricted flow of AI within the Consent ecosystem.
-
-### Transparency and Resource Utilization
-
-To foster a fair and competitive marketplace for AI inference, Consent prioritizes transparency in router operation and compute resource utilization. By publicly tracking model popularity, compute providers can make informed decisions regarding model prioritization and pricing strategies.
-
-The system measures session lengths and sets prices per unit of time, accommodating both predetermined and variable output lengths to cater to the diverse nature of AI applications. This pricing mechanism ensures that compute providers can optimize their offerings while maintaining a balanced and efficient marketplace.
-
-### Compensation for Model and Agent Builders
-
-Consent recognizes the value of contributions made by model and agent builders within the ecosystem. These creators receive compensation proportional to their contributions and the usage of their models, regardless of the compute provider hosting their work. This framework fosters a culture of innovation and development, incentivizing the creation of high-quality assets that drive the growth and utility of the Consent network.
-
-### Balancing Innovation and Security
-
-The Consent approach to decentralized AI inference strikes a balance between open innovation and secure, reliable computation. Local nodes are equipped with trusted smart contracts for standard operations, providing a secure foundation for AI execution. However, when engaging with third-party models, users are encouraged to exercise heightened responsibility and due diligence to ensure the integrity and safety of their interactions.
-
-By fostering a decentralized compute infrastructure, transparent resource utilization, and a fair compensation model for contributors, Consent is creating a robust and sustainable ecosystem that empowers individuals to actively participate in the evolution of AI technology while maintaining the highest standards of security and reliability.
 
 ## Multi-Agent Systems
 
@@ -165,26 +142,53 @@ As the implementation progresses, the Consent ecosystem will continue to evolve,
 
 By leveraging the power of collaborative AI through the multi-agent systems framework, the Consent ecosystem is poised to revolutionize the way humans and machines work together, unlocking new frontiers of innovation and problem-solving. As the ecosystem grows and matures, it will serve as a testament to the transformative potential of decentralized, interoperable, and secure multi-agent systems in shaping the future of human-AI collaboration.
 
-## Consent Local
 
-The most basic application is the local Consent applicatoin that can be installed on Mac, Linux or Windows systems, leveraging the Electron framework to seamlessly blend web-based interfaces and server-side functionalities. The application combines AI capabilities with blockchain technology, offering users a range of services, including secure communication, intelligent language processing, and robust blockchain transactions.
+## Nodes & Decentralised AI Inference
 
-### Application Architecture
+### Overview
 
-- **Electron Framework**: Consent Local is packaged and installed using Electron, enabling native application experiences on PC and Linux platforms through web technologies.
-- **Large Language Model (LLM) Integration**: The core of Consent Local's AI capabilities lies in its integrated LLM and the corresponding API, which processes and generates human-like text. This setup allows for direct communication with the LLM, facilitating access to its sophisticated features.
-- **Foundational Technologies**: Consent Local utilizes Chromium for web-based user interfaces and Node.js for backend operations, delivering a responsive and efficient user experience.
-- **LangChain and Supportive Library**: LangChain, embedded within the application, links the LLM with vector stores and APIs, enhancing the language model's capabilities. A comprehensive library supports LangChain operations, ensuring smooth data handling and integration with third-party services.
+The Consent ecosystem is evolving to enable individuals to contribute to the network by providing inference capabilities to SENT users through the operation of nodes. These nodes, which currently represent local Large Language Models (LLMs), will play a crucial role in the decentralized compute infrastructure of the Consent platform.
 
-### Functional Modules:
+### Node Operation and Rewards
 
-- **Vector Store**: Employs a storage solution for vectorized data, crucial for the LLM's information retrieval and processing tasks.
-- **Private Chat UI**: Offers a user interface optimized for private messaging, leveraging the LLM for conversational AI interactions.
-- **RPC (Remote Procedure Call)**: Facilitates networked server-side processes, ensuring seamless communication across the application.
-- **Private Tools and Security Keys**: A suite of internal tools aids in application administration and development, while a dedicated security module manages cryptographic keys for encryption and digital signatures.
-- **Prompt Rank and Smart Snap/Wallet**: Incorporates an algorithm to optimize user input prompts and a component that provides blockchain transaction capabilities, including a built-in wallet for digital asset management.
+At present, operating a local inference node is optional, primarily benefiting users who wish to host AI Agents locally. However, as the system matures, node operation will become essential for those seeking to contribute to the Compute and Community functions within the Consent ecosystem.
 
-Consent Local represents a multifaceted desktop application that embodies the integration of AI with blockchain technology, setting a new standard for secure, intelligent, and user-centric blockchain interactions.
+In the initial stages, running a local inference node does not generate direct rewards. However, as the network evolves, nodes that actively contribute to Consent's Compute and Community functionalities will receive compensation. This incentivization mechanism aims to encourage participation and support the network's growth and utility expansion.
+
+### Technical Requirements and Setup
+
+To ensure optimal performance and reliability, running a Consent node requires the following hardware specifications:
+
+- 64GB of storage
+- GPU with at least 16GB of vRAM
+- 16GB of system RAM
+- CPU with a minimum of 4 cores
+
+These requirements enable nodes to efficiently handle the demands of running LLMs and other resource-intensive tasks. Detailed setup instructions for Windows users are available on Consent's GitHub repository, with plans to develop a GUI-less node operation suitable for VPS hosting.
+
+### Decentralized Compute Provision
+
+As the Consent infrastructure continues to develop, the future of compute provision within the ecosystem is promising. The platform aims to enable decentralized compute contributions, collaborating with platforms like Akash to create a more flexible and expansive compute provision mechanism. This approach will leverage cloud infrastructure and focus on Inference Per Second (IPS) as a key performance metric.
+
+### Decentralized Model Registry
+
+Consent is establishing a decentralized model registry that allows compute providers to host model weights and definitions. This registry promotes a distributed file-sharing network, enhancing the ecosystem's robustness by leveraging the InterPlanetary File System (IPFS). The decentralized nature of the registry ensures resilience against potential adversarial actions, maintaining the unrestricted flow of AI within the Consent ecosystem.
+
+### Transparency and Resource Utilization
+
+To foster a fair and competitive marketplace for AI inference, Consent prioritizes transparency in router operation and compute resource utilization. By publicly tracking model popularity, compute providers can make informed decisions regarding model prioritization and pricing strategies.
+
+The system measures session lengths and sets prices per unit of time, accommodating both predetermined and variable output lengths to cater to the diverse nature of AI applications. This pricing mechanism ensures that compute providers can optimize their offerings while maintaining a balanced and efficient marketplace.
+
+### Compensation for Model and Agent Builders
+
+Consent recognizes the value of contributions made by model and agent builders within the ecosystem. These creators receive compensation proportional to their contributions and the usage of their models, regardless of the compute provider hosting their work. This framework fosters a culture of innovation and development, incentivizing the creation of high-quality assets that drive the growth and utility of the Consent network.
+
+### Balancing Innovation and Security
+
+The Consent approach to decentralized AI inference strikes a balance between open innovation and secure, reliable computation. Local nodes are equipped with trusted smart contracts for standard operations, providing a secure foundation for AI execution. However, when engaging with third-party models, users are encouraged to exercise heightened responsibility and due diligence to ensure the integrity and safety of their interactions.
+
+By fostering a decentralized compute infrastructure, transparent resource utilization, and a fair compensation model for contributors, Consent is creating a robust and sustainable ecosystem that empowers individuals to actively participate in the evolution of AI technology while maintaining the highest standards of security and reliability.
 
 ## Identity & Attestations
 

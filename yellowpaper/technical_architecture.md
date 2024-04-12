@@ -62,18 +62,18 @@ Inter-Agent Communication: AI Agents developed using the SDK can operate indepen
 Indexing & Model Repositories: The SDK offers structured repositories for Indexes and Models, providing efficient data organization and access, as well as hosting the machine learning algorithms that power AI Agents' intelligent decision-making capabilities.
 Foundation for Development: The SDK serves as the bedrock for the entire system, offering essential "Storage" for secure data retention and "Compute" capacity to support the operations of AI Agents. Engineered for scalability, the SDK ensures that storage and compute services can progressively decentralize as the Consent network evolves.
 
-## Local Agents
+### Local AI Agents
 
 The most basic application is the local Consent applicatoin that can be installed on Mac, Linux or Windows systems, leveraging the Electron framework to seamlessly blend web-based interfaces and server-side functionalities. The application combines AI capabilities with blockchain technology, offering users a range of services, including secure communication, intelligent language processing, and robust blockchain transactions.
 
-### Application Architecture
+#### Application Architecture
 
 - **Electron Framework**: Consent Local is packaged and installed using Electron, enabling native application experiences on PC and Linux platforms through web technologies.
 - **Large Language Model (LLM) Integration**: The core of Consent Local's AI capabilities lies in its integrated LLM and the corresponding API, which processes and generates human-like text. This setup allows for direct communication with the LLM, facilitating access to its sophisticated features.
 - **Foundational Technologies**: Consent Local utilizes Chromium for web-based user interfaces and Node.js for backend operations, delivering a responsive and efficient user experience.
 - **LangChain and Supportive Library**: LangChain, embedded within the application, links the LLM with vector stores and APIs, enhancing the language model's capabilities. A comprehensive library supports LangChain operations, ensuring smooth data handling and integration with third-party services.
 
-### Functional Modules:
+#### Functional Modules:
 
 - **Vector Store**: Employs a storage solution for vectorized data, crucial for the LLM's information retrieval and processing tasks.
 - **Private Chat UI**: Offers a user interface optimized for private messaging, leveraging the LLM for conversational AI interactions.
@@ -84,7 +84,7 @@ The most basic application is the local Consent applicatoin that can be installe
 Consent Local represents a multifaceted desktop application that embodies the integration of AI with blockchain technology, setting a new standard for secure, intelligent, and user-centric blockchain interactions.
 
 
-## NFT Representations of AI Agents
+### On-chain AI Agents
 
 AI Agents within the Consent ecosystem can be optionally represented as Non-Fungible Tokens (NFTs), providing users with the flexibility to run them locally or mint them as NFTs for a distinct on-chain presence. These NFTs encapsulate the agent's capabilities, provenance, and operational parameters, ensuring interoperability and consistency across the ecosystem.
 
@@ -96,7 +96,7 @@ Unique Economic Model: AI Agents represented as NFTs enable a distinctive econom
 Decentralized Ethos: NFT-based AI Agents maintain a decentralized ethos, with transparent code and dependencies, accessible through dedicated marketplaces that foster a vibrant and open ecosystem.
 By offering NFT representations of AI Agents, Consent empowers users with greater control, flexibility, and transparency in their interactions with these intelligent entities, while also creating new opportunities for innovation and value creation within the Web3 landscape.
 
-## Multi-Agent Systems
+### Multi-Agent Systems
 
 The multi-agent systems framework lies at the heart of the Consent project, serving as a catalyst for AI Agents to collaborate, cooperate, and achieve complex goals through collective intelligence. By establishing a decentralized, interoperable, and secure environment, the Consent ecosystem fosters the emergence of dynamic AI Agent federations capable of tackling intricate challenges and driving innovation across various domains.
 

@@ -25,8 +25,8 @@ Welcome to the Consent Project Yellow Paper. This document serves as a comprehen
    - [Data Commons](technical_architecture.md#data-commons)
 
 4. [Tokenomics](tokenomics.md)
-   - SENT: The Principal Currency
-   - Distribution and Staking Dynamics
+   - [Supply](tokenomics.md#supply)
+   - [Demand](tokenomics.md#demand--distribution)
    - [Liquidity](liquidity.md)
 
 5. [Governance](governance.md)

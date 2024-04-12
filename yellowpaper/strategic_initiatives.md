@@ -18,29 +18,40 @@ This framework not only simplifies the process of introducing SENT to new networ
 
 Consent's multi-chain infrastructure signifies a significant stride towards a truly chain-agnostic ecosystem, where interoperability and seamless cross-chain functionality become the cornerstones of its expansion strategy.
 
-## Capital Raising - XCombinator (XD)
+## XCombinator: A Revolutionary Capital Raising Framework
+XCombinator, inspired by the renowned YCombinator, is an innovative capital raising framework designed to support startups and organizations in their fundraising efforts. The key difference is that projects utilizing XCombinator do not need to be directly associated with the Consent Protocol, making it a versatile and accessible tool for a wide range of initiatives.
 
-Within the Consent network, every element, from AI Agents and front-end interfaces to code repositories, becomes a participatory force in the ecosystem when represented as a non-fungible token (NFT) with the capability to stake SENT. These components are seamlessly integrated into the Shared Yield Generator process, highlighting the network's innovative approach to capital contribution and project development.
+### How XCombinator Works
+At the core of XCombinator is the concept of leveraging yield-bearing assets, such as staked Ether (stETH), to effectively donate a portion of their yield to support projects. In return, contributors can receive various incentives, depending on the project's structure:
 
-### The XCombinator Framework: Advantages Over Traditional Models
+- **Project's Native Token**: Many projects will choose to issue their own native tokens to contributors as a reward for their support.
+- **SENT Tokens**: If the project is composed of NFTs with built-in SENT staking capabilities, contributors may receive SENT tokens as a reward for their participation.
+- **Altruistic Contributions**: Some contributors may choose to pledge their support to projects without expecting any direct rewards, demonstrating a more altruistic approach to funding innovative ideas.
 
-The XCombinator framework offers several advantages over traditional capital raising models:
-- **Indirect Capital Contribution**: Unlike conventional methods that require upfront capital investment, the focus here is on leveraging yield generation, minimizing direct financial barriers to participation.
-- **Impermanent Loss Mitigation**: The framework sidesteps the common pitfalls of liquidity provision, including impermanent loss, fostering a more secure environment for contributors.
-- **Sustained SENT Demand**: By basing rewards on yield generation, the Shared Yield Generator ensures ongoing demand for the SENT token, a vital factor for the ecosystem's longevity.
-- **Growth in Protocol-Owned Liquidity**: The gradual increase in protocol-owned liquidity (POL) underpins the network's stability, creating a robust foundation for continuous growth.
-- **Equity, Adaptability, and Scalability**: Designed with fairness in mind, the framework is versatile enough to be implemented across various blockchain networks, ensuring wide-reaching applicability.
+### The Role of Consent Protocol
+While projects utilizing XCombinator do not need to be directly associated with Consent Protocol, the framework itself is built upon Consent's infrastructure. In return for providing this robust and secure fundraising platform, Consent Protocol earns a small fee, calculated as a percentage of the income generated through the XCombinator fundraising dashboard.
 
-### Capital Raising via YieldCombinator
+### Advantages of XCombinator
+XCombinator offers several compelling advantages over traditional capital raising models:
 
-At its core, the XCombinator facilitates the effortless launch and funding of open-source projects within the Consent network. Projects distribute native tokens through this framework, attracting staked Ether (stETH) contributions from users. In return, stakers receive project tokens proportionate to their contribution. This symbiotic relationship fortifies project support, with half of the generated yield reinvested in purchasing project tokens and the remainder enhancing automated market maker (AMM) liquidity.
+- Indirect Capital Contribution: Unlike conventional methods that require upfront capital investment, XCombinator focuses on leveraging yield generation, minimizing direct financial barriers to participation.
+- Impermanent Loss Mitigation: By design, XCombinator sidesteps the common pitfalls of liquidity provision, such as impermanent loss, fostering a more secure environment for contributors.
+- Sustained SENT Demand: When projects are composed of NFTs with built-in SENT staking, the rewards based on yield generation ensure ongoing demand for the SENT token, contributing to the ecosystem's longevity.
+- Equity, Adaptability, and Scalability: Designed with fairness in mind, XCombinator is versatile enough to be implemented across various blockchain networks, ensuring wide-reaching applicability and scalability.
 
-### Implementation by Consent
+### The XCombinator Workflow
+The XCombinator framework facilitates the seamless launch and funding of open-source projects within the Consent network. Projects can distribute their native tokens through this framework, attracting staked Ether (stETH) contributions from users. In return, stakers receive project tokens proportionate to their contribution.
 
-Consent leads by example in adopting the XCombinator Smart Contracts, pioneering a method for open-source project launches. This model offers numerous benefits, including straightforward project initiation, permissionless integration, and the promotion of sustainable liquidity and demand for project tokens. It encapsulates Consent's ethos of leveraging collective resources to drive forward innovation and growth in the decentralized realm.
+This symbiotic relationship fortifies project support, with a portion of the generated yield reinvested in purchasing project tokens and the remainder enhancing automated market maker (AMM) liquidity. Consent leads by example, adopting the XCombinator Smart Contracts and pioneering a method for open-source project launches.
 
-### Fee Generation and Ecosystem Support
+### Ecosystem Support and Fee Generation
+Projects external to the Consent ecosystem can also utilize the Consent-developed Dashboard and associated smart contracts for capital raising. This inclusive strategy welcomes yield contributions, laying the groundwork for a sustainable financial ecosystem.
 
-Projects external to the Consent ecosystem can also utilize the Consent-developed Dashboard and associated smart contracts for capital raising. This inclusive strategy welcomes yield contributions, laying the groundwork for a sustainable financial ecosystem. Consent, in turn, applies a modest fee of 1% on the collected yield, whether in stETH or other supported yield bearing assets.
+### In exchange for providing the infrastructure and tools, Consent applies a modest fee of 1% on the collected yield, whether in stETH or other supported yield-bearing assets. This fee directly contributes to the relevant SENT trading pair. For instance, fees generated in stETH would be allocated to the SENT/stETH liquidity pool on Uniswap, effectively increasing SENT liquidity.
+
+### Growth in Protocol-Owned Liquidity
+As projects utilizing XCombinator flourish, the gradual increase in protocol-owned liquidity (POL) underpins the stability of the Consent network, creating a robust foundation for continuous growth. The 1% fee generated from XCombinator projects is strategically allocated to SENT liquidity pools across various yield-bearing assets and major blockchain networks.
+
+This approach enables SENT to maintain deep liquidity across all major chains and yield-bearing assets, enhancing its accessibility and usability within the broader decentralized finance ecosystem. By fostering a strong and diverse liquidity base, Consent Protocol ensures the long-term stability and success of the SENT token and the XCombinator framework.
 
 [<< Previous](governance.md) | [Next >>](protection.md)

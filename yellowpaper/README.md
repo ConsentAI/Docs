@@ -48,7 +48,7 @@ For those interested in contributing to the Consent Yellow Paper, please see our
 
 ## Ownership
 
-Each section of this document has a designated owner. For more details on section ownership, please refer to [OWNERS.md](OWNERS.md).
+Each section of this document has a designated owner. For more details on section ownership, please refer to [OWNERS.md](owners.md).
 
 ## References
 

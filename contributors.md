@@ -15,11 +15,11 @@ Here are some tips for maintaining anonymity:
 
 ## Contribution Types
 
-Consent Protocol welcomes two types of contributions: single tasks and recurring tasks.
+Consent Protocol welcomes three types of contributions: bounties, freestyle and recurring roles.
 
-### Single Task Contributions
+### Freestyle Contributions
 
-Single task contributions are one-time contributions that address a specific issue, feature, or improvement. These contributions can be made by anyone, regardless of their level of involvement with the project. To submit a single task contribution:
+Freestyle contributions are one-time contributions that address a specific issue, feature, or improvement. These contributions can be made by anyone, regardless of their level of involvement with the project. To submit a freestyle contribution:
 
 1. Identify an open issue, feature request, or improvement opportunity.
 2. Fork the project's repository and create a new branch for your contribution.
@@ -27,13 +27,13 @@ Single task contributions are one-time contributions that address a specific iss
 4. Submit a pull request (PR) with a clear description of your changes and their impact.
 5. Engage in the code review process and address any feedback or suggestions.
 
-Submit your contribution on the the [Single task contributions table](link-to-single-task-contribution-table).
+Submit your contribution on the the [Freestyle contributions table](link-to-freestyle-contribution-table).
 
-### Recurring Task Contributions
+### Recurring Roles
 
-Recurring task contributions are ongoing contributions made by individuals who have been approved as recurring contributors. These contributors take on specific roles or responsibilities within the project and contribute on a regular basis. To become a recurring contributor:
+Recurring roles are for ongoing contributions made by individuals who have been approved as recurring contributors. These contributors take on specific roles or responsibilities within the project and contribute on a regular basis. To become a recurring contributor:
 
-1. Demonstrate your commitment and skills by successfully completing **at least three single task contributions**.
+1. Demonstrate your commitment and skills by successfully completing **at least three bounties or freestyle contributions**.
 2. Express your interest in becoming a recurring contributor to the relevant Repo Lead.
 3. Discuss the available roles, responsibilities, and expectations with the relevant Repo Lead.
 4. Once approved, commit to contributing to the project on a recurring basis, as agreed upon with the relevant Repo Lead.
